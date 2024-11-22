@@ -51,7 +51,7 @@ nav .nav-links li a:hover {
 
 #home {
     height: 100vh;
-    background: url('images/gradient2.jpg') center center no-repeat;
+    background: url('gradient2.jpg') center center no-repeat;
     background-size: cover;
     display: flex;
     justify-content: center;
